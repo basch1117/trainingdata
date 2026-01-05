@@ -7,8 +7,8 @@ Days tracked: 85
 Avg HRV: 87.4
 Avg Resting HR: 50.0
 Avg Sleep: 7.7 hours
-Avg Fitness (CTL): 7.3
-Peak Fitness (CTL): 15.3
+Avg Fitness (CTL): 7.5
+Peak Fitness (CTL): 28.3
 Avg Fatigue (ATL): 22.2
 
 TRAINING TOTALS

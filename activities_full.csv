@@ -1,4 +1,6 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-01-29,WeightTraining,Lunch Krafttraining,55.0,,0.0,,,117.0,163.0,25.0,52.07,,
+2026-01-27,VirtualRide,Evening Virtuelle Radfahrt,46.0,,0.0,,,154.0,175.0,53.0,83.39,,
 2026-01-26,,,,,,,,,,,,,
 2026-01-17,Workout,Hyrox,97.0,,0.0,,,168.0,182.0,149.0,95.32,,
 2026-01-16,,,,,,,,,,,,,

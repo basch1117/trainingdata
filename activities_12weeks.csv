@@ -1,4 +1,6 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-02-01,Run,Lunch Laufen,58.0,9.0,198.0,,,148.0,168.0,62.0,78.04,,
+2026-01-31,WeightTraining,Afternoon Krafttraining,62.0,,0.0,,,119.0,164.0,33.0,54.78,,
 2026-01-29,WeightTraining,Lunch Krafttraining,55.0,,0.0,,,117.0,163.0,25.0,52.07,,
 2026-01-27,VirtualRide,Evening Virtuelle Radfahrt,46.0,,0.0,,,154.0,175.0,53.0,83.39,,
 2026-01-26,,,,,,,,,,,,,
@@ -56,4 +58,3 @@ date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,
 2025-11-13,,,,,,,,,,,,,
 2025-11-12,,,,,,,,,,,,,
 2025-11-11,,,,,,,,,,,,,
-2025-11-09,,,,,,,,,,,,,

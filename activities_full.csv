@@ -1,4 +1,5 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-02-03,WeightTraining,Afternoon Krafttraining,63.0,,0.0,,,113.0,151.0,25.0,48.87,,
 2026-02-01,Run,Lunch Laufen,58.0,9.0,198.0,,,148.0,168.0,62.0,78.04,,
 2026-01-31,WeightTraining,Afternoon Krafttraining,62.0,,0.0,,,119.0,164.0,33.0,54.78,,
 2026-01-29,WeightTraining,Lunch Krafttraining,55.0,,0.0,,,117.0,163.0,25.0,52.07,,

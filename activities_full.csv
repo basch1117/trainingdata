@@ -1,4 +1,7 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-03-14,TrailRun,Afternoon Trailrun,33.0,5.8,36.0,,,145.0,162.0,32.0,73.15,,
+2026-03-14,TrailRun,Lunch Trailrun,56.0,7.1,336.0,,,148.0,163.0,54.0,75.34,,
+2026-03-14,WeightTraining,Morning Krafttraining,48.0,,0.0,,,113.0,151.0,22.0,52.37,,
 2026-03-11,Padel,Night Padel,94.0,,0.0,,,122.0,159.0,48.0,55.35,,
 2026-03-10,Workout,Afternoon Training,62.0,,0.0,,,142.0,173.0,54.0,72.49,,
 2026-03-08,Ride,Gossau Rennradfahren,159.0,57.7,595.0,,,127.0,166.0,110.0,61.64,,

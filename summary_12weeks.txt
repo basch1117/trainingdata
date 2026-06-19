@@ -1,15 +1,15 @@
-Training Data Summary: 2026-03-26 to 2026-06-18
+Training Data Summary: 2026-03-27 to 2026-06-19
 ==================================================
 
 WELLNESS AVERAGES
 ------------------------------
 Days tracked: 85
-Avg HRV: 98.3
+Avg HRV: 98.2
 Avg Resting HR: 46.0
 Avg Sleep: 7.4 hours
-Avg Fitness (CTL): 14.3
+Avg Fitness (CTL): 14.7
 Peak Fitness (CTL): 51.9
-Avg Fatigue (ATL): 11.1
+Avg Fatigue (ATL): 11.3
 
 TRAINING TOTALS
 ------------------------------

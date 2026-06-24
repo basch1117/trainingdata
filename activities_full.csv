@@ -1,4 +1,6 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-06-23,WeightTraining,Morning Krafttraining,54.0,,0.0,,,112.0,147.0,23.0,50.48,,
+2026-06-22,WeightTraining,Morning Krafttraining,54.0,,0.0,,,112.0,156.0,24.0,51.47,,
 2026-06-20,WeightTraining,Morning Krafttraining,58.0,,0.0,,,116.0,152.0,27.0,52.93,,
 2026-06-17,,,,,,,,,,,,,
 2026-06-16,WeightTraining,Morning Krafttraining,65.0,,0.0,,,139.0,170.0,54.0,70.74,,

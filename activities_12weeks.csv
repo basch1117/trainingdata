@@ -1,4 +1,5 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-07-09,,,,,,,,,,,,,
 2026-07-08,TrailRun,Lunch Trailrun,127.0,15.3,343.0,,,134.0,160.0,107.0,70.07,,
 2026-07-06,WeightTraining,Afternoon Krafttraining,59.0,,0.0,,,107.0,149.0,24.0,45.99,,
 2026-07-04,OpenWaterSwim,Afternoon Swim 1k,12.0,0.7,0.0,,,138.0,166.0,10.0,49.83,,

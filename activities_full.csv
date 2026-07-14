@@ -1,4 +1,6 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-07-13,OpenWaterSwim,Afternoon Freiwasserschwimmen,11.0,0.6,0.0,,,132.0,173.0,12.0,60.25,,
+2026-07-12,Ride,Sankt Gallen Rennradfahren,263.0,102.3,940.0,,,135.0,165.0,263.0,76.76,,
 2026-07-11,OpenWaterSwim,Afternoon Freiwasserschwimmen,18.0,0.7,0.0,,,128.0,150.0,12.0,54.73,,
 2026-07-11,Run,Morning Laufen,63.0,10.0,78.0,,,158.0,174.0,85.0,89.42,,
 2026-07-10,WeightTraining,Lunch Krafttraining,63.0,,0.0,,,116.0,159.0,30.0,53.59,,

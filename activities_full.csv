@@ -1,4 +1,5 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-07-16,OpenWaterSwim,Afternoon Freiwasserschwimmen,37.0,1.8,0.0,,,171.0,191.0,70.0,96.52,,
 2026-07-14,Padel,Evening Padel,99.0,,0.0,,,131.0,191.0,67.0,63.73,,
 2026-07-13,OpenWaterSwim,Afternoon Freiwasserschwimmen,11.0,0.6,0.0,,,132.0,173.0,12.0,60.25,,
 2026-07-12,Ride,Sankt Gallen Rennradfahren,263.0,102.3,940.0,,,135.0,165.0,263.0,76.76,,

@@ -1,4 +1,9 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-07-23,WeightTraining,Morning Krafttraining,51.0,,0.0,,,,,,,,
+2026-07-21,TrailRun,Morning Trailrun,230.0,23.6,1336.0,,,140.0,167.0,219.0,74.91,,
+2026-07-19,TrailRun,Morning Trailrun,159.0,16.1,913.0,,,125.0,159.0,156.0,75.3,,
+2026-07-18,TrailRun,Morning Trailrun,108.0,10.9,757.0,,,140.0,161.0,112.0,76.32,,
+2026-07-17,WeightTraining,Morning Krafttraining,55.0,,0.0,,,114.0,145.0,25.0,52.29,,
 2026-07-16,OpenWaterSwim,Afternoon Freiwasserschwimmen,37.0,1.8,0.0,,,171.0,191.0,70.0,96.52,,
 2026-07-14,Padel,Evening Padel,99.0,,0.0,,,131.0,191.0,67.0,63.73,,
 2026-07-13,OpenWaterSwim,Afternoon Freiwasserschwimmen,11.0,0.6,0.0,,,132.0,173.0,12.0,60.25,,

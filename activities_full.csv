@@ -1,4 +1,7 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-07-28,Padel,Evening Padel,96.0,,0.0,,,129.0,179.0,63.0,62.68,,
+2026-07-26,Run,Lunch Laufen,87.0,14.2,109.0,,,148.0,165.0,116.0,89.07,,
+2026-07-25,OpenWaterSwim,Afternoon Freiwasserschwimmen,28.0,1.4,0.0,,,121.0,153.0,17.0,52.83,,
 2026-07-24,Ride,Sankt Gallen Rennradfahren,293.0,110.4,938.0,,,138.0,167.0,304.0,77.71,,
 2026-07-23,WeightTraining,Morning Krafttraining,51.0,,0.0,,,,,,,,
 2026-07-21,TrailRun,Morning Trailrun,230.0,23.6,1336.0,,,140.0,167.0,219.0,74.91,,

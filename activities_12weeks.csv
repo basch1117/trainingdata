@@ -1,4 +1,7 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-08-03,OpenWaterSwim,1500m Technik,35.0,1.0,0.0,,,118.0,147.0,14.0,43.97,,
+2026-08-01,TrailRun,Morning Trailrun,187.0,16.3,1482.0,,,141.0,165.0,183.0,74.79,,
+2026-07-31,WeightTraining,Lunch Krafttraining,56.0,,0.0,,,102.0,135.0,19.0,44.99,,
 2026-07-29,OpenWaterSwim,Afternoon Freiwasserschwimmen,31.0,1.6,0.0,,,105.0,138.0,11.0,39.76,,
 2026-07-29,WeightTraining,Lunch Krafttraining,53.0,,0.0,,,104.0,142.0,18.0,45.31,,
 2026-07-28,Padel,Evening Padel,96.0,,0.0,,,129.0,179.0,63.0,62.68,,

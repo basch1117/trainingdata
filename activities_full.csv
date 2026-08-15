@@ -1,4 +1,5 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-08-14,Hike,Morning Wanderung,519.0,17.7,1854.0,,,120.0,160.0,260.0,53.89,,
 2026-08-13,Swim,Lunch Schwimmen,47.0,1.7,0.0,,,111.0,140.0,20.0,48.17,,
 2026-08-12,Ride,Sankt Gallen Rennradfahren,76.0,25.4,462.0,,,138.0,161.0,102.0,89.17,,
 2026-08-11,Swim,Lunch Schwimmen,45.0,1.7,0.0,,,159.0,191.0,75.0,93.49,,

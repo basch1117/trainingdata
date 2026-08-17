@@ -1,4 +1,10 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-08-16,Run,Lunch Laufen,31.0,5.8,4.0,,,164.0,171.0,52.0,100.84,,
+2026-08-16,Transition,Lunch Übergang,0.0,0.1,0.0,,,156.0,159.0,1.0,,,
+2026-08-16,Ride,Lunch Radfahren,43.0,22.6,17.0,,,153.0,167.0,81.0,105.6,,
+2026-08-16,Transition,Lunch Übergang,2.0,0.1,4.0,,,141.0,156.0,1.0,,,
+2026-08-16,OpenWaterSwim,Morning Freiwasserschwimmen,11.0,,,,,84.0,162.0,2.0,25.61,,
+2026-08-15,Hike,Morning Wanderung,224.0,9.1,74.0,,,,,,,,
 2026-08-14,Hike,Morning Wanderung,519.0,17.7,1854.0,,,120.0,160.0,260.0,53.89,,
 2026-08-13,Swim,Lunch Schwimmen,47.0,1.7,0.0,,,111.0,140.0,20.0,48.17,,
 2026-08-12,Ride,Sankt Gallen Rennradfahren,76.0,25.4,462.0,,,138.0,161.0,102.0,89.17,,

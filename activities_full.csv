@@ -1,4 +1,6 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-09-05,WeightTraining,Afternoon Krafttraining,60.0,,0.0,,,109.0,153.0,20.0,44.66,,
+2026-09-05,,,,,,,,,,,,,
 2026-09-03,Run,Evening Laufen,32.0,5.4,69.0,,,155.0,166.0,51.0,97.08,,
 2026-09-02,,,,,,,,,,,,,
 2026-09-01,WeightTraining,Afternoon Krafttraining,65.0,,0.0,,,105.0,147.0,23.0,46.22,,

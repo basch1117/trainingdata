@@ -1,4 +1,6 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-09-11,Rowing,Lunch Row 4*2k,34.0,1.7,,,,127.0,151.0,22.0,57.24,,
+2026-09-10,,,,,,,,,,,,,
 2026-09-09,Padel,Evening Padel,84.0,,0.0,,,135.0,184.0,61.0,66.05,,
 2026-09-08,WeightTraining,Lunch Krafttraining,51.0,,0.0,,,,,,,,
 2026-09-06,OpenWaterSwim,"Mittagschwimmen 900m, freezing",20.0,0.7,0.0,,,130.0,180.0,13.0,60.4,,

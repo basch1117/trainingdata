@@ -1,4 +1,4 @@
-Training Data Summary: 2026-06-22 to 2026-09-14
+Training Data Summary: 2026-06-23 to 2026-09-15
 ==================================================
 
 WELLNESS AVERAGES
@@ -14,14 +14,15 @@ Avg Fatigue (ATL): 48.9
 TRAINING TOTALS
 ------------------------------
 Total activities: 69
-Total hours: 76.3
+Total hours: 76.2
 Total distance: 471.0 km
-Total TSS: 3437.0
+Total TSS: 3425.0
 Avg TSS/activity: 62.0
 
 WEEKLY BREAKDOWN
 ------------------------------
 Week         Activities   Hours      TSS       
+2026-W37     1            0.8        12.0      
 2026-W36     5            4.0        174.0     
 2026-W35     6            3.0        107.0     
 2026-W34     6            6.5        323.0     
@@ -33,4 +34,4 @@ Week         Activities   Hours      TSS
 2026-W28     6            7.8        442.0     
 2026-W27     7            9.9        521.0     
 2026-W26     3            0.2        10.0      
-2026-W25     4            2.3        77.0      
+2026-W25     3            1.4        53.0      

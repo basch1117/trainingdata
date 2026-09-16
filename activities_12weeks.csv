@@ -1,4 +1,5 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-09-15,WeightTraining,Afternoon Krafttraining,54.0,,0.0,,,97.0,134.0,15.0,40.77,,
 2026-09-14,WeightTraining,Afternoon Krafttraining,50.0,,0.0,,,105.0,154.0,12.0,38.09,,
 2026-09-12,Run,Lunch Laufen,72.0,11.3,136.0,,,140.0,156.0,91.0,84.94,,
 2026-09-11,Rowing,Lunch Row 4*2k,34.0,1.7,,,,127.0,151.0,22.0,57.24,,
@@ -67,4 +68,3 @@ date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,
 2026-06-30,,,,,,,,,,,,,
 2026-06-24,,,,,,,,,,,,,
 2026-06-24,Run,"Pre Intervall ""Warmup""",31.0,4.3,105.0,,,154.0,168.0,30.0,74.75,,
-2026-06-23,WeightTraining,Morning Krafttraining,54.0,,0.0,,,112.0,147.0,23.0,50.48,,

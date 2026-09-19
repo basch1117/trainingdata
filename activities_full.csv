@@ -1,4 +1,5 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-09-18,TrailRun,Afternoon Trailrun,94.0,13.0,336.0,,,143.0,164.0,109.0,81.87,,
 2026-09-17,,,,,,,,,,,,,
 2026-09-16,Padel,Evening Padel,85.0,,0.0,,,138.0,168.0,68.0,69.15,,
 2026-09-16,Run,Laufen + Kraftklub Tickets Warteschlange,48.0,6.8,130.0,,,132.0,160.0,52.0,78.52,,

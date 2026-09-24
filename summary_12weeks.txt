@@ -1,4 +1,4 @@
-Training Data Summary: 2026-06-27 to 2026-09-19
+Training Data Summary: 2026-07-02 to 2026-09-24
 ==================================================
 
 WELLNESS AVERAGES
@@ -6,23 +6,23 @@ WELLNESS AVERAGES
 Days tracked: 85
 Avg HRV: None
 Avg Resting HR: 45.0
-Avg Sleep: 7.3 hours
-Avg Fitness (CTL): 45.6
+Avg Sleep: 7.4 hours
+Avg Fitness (CTL): 46.0
 Peak Fitness (CTL): 53.5
-Avg Fatigue (ATL): 49.4
+Avg Fatigue (ATL): 50.8
 
 TRAINING TOTALS
 ------------------------------
 Total activities: 71
-Total hours: 79.5
+Total hours: 80.3
 Total distance: 487.0 km
-Total TSS: 3616.0
-Avg TSS/activity: 63.0
+Total TSS: 3624.0
+Avg TSS/activity: 62.0
 
 WEEKLY BREAKDOWN
 ------------------------------
 Week         Activities   Hours      TSS       
-2026-W37     6            5.5        256.0     
+2026-W37     8            6.4        264.0     
 2026-W36     5            4.0        174.0     
 2026-W35     6            3.0        107.0     
 2026-W34     6            6.5        323.0     
@@ -33,4 +33,4 @@ Week         Activities   Hours      TSS
 2026-W29     5            11.5       656.0     
 2026-W28     6            7.8        442.0     
 2026-W27     7            9.9        521.0     
-2026-W26     3            0.2        10.0      
+2026-W26     1            0.2        10.0      

@@ -1,4 +1,5 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-09-25,Run,Lunch Laufen,69.0,11.8,37.0,,,149.0,159.0,99.0,90.04,,
 2026-09-20,WeightTraining,Morning Krafttraining,49.0,,0.0,,,83.0,133.0,8.0,31.17,,
 2026-09-19,,,,,,,,,,,,,
 2026-09-18,TrailRun,Afternoon Trailrun,94.0,13.0,336.0,,,143.0,164.0,109.0,81.87,,

@@ -1,4 +1,10 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-10-07,WeightTraining,Afternoon Krafttraining,54.0,,0.0,,,98.0,141.0,16.0,42.35,,
+2026-10-06,Ride,Night Radfahren,18.0,2.8,120.0,,,142.0,165.0,27.0,94.65,,
+2026-10-06,Padel,Evening Padel,88.0,,0.0,,,130.0,159.0,57.0,62.31,,
+2026-10-06,,,,,,,,,,,,,
+2026-10-02,Run,Morning Laufen,73.0,12.0,59.0,,,141.0,156.0,104.0,91.65,,
+2026-09-30,Run,Morning Laufen,31.0,5.2,46.0,,,139.0,154.0,43.0,90.89,,
 2026-09-28,Run,Lunch Laufen,69.0,10.6,32.0,,,133.0,154.0,83.0,83.59,,
 2026-09-27,Hike,Lunch Wanderung,137.0,9.4,351.0,,,94.0,176.0,41.0,37.76,,
 2026-09-25,Run,Lunch Laufen,69.0,11.8,37.0,,,149.0,159.0,99.0,90.04,,

@@ -1,4 +1,5 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-10-08,VirtualRun,Indoor Laufband 90min UpperZone2,92.0,13.5,0.0,,,146.0,157.0,98.0,80.01,,
 2026-10-07,WeightTraining,Afternoon Krafttraining,54.0,,0.0,,,98.0,141.0,16.0,42.35,,
 2026-10-06,Ride,Night Radfahren,18.0,2.8,120.0,,,142.0,165.0,27.0,94.65,,
 2026-10-06,Padel,Evening Padel,88.0,,0.0,,,130.0,159.0,57.0,62.31,,
@@ -68,4 +69,3 @@ date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,
 2026-07-19,TrailRun,Morning Trailrun,159.0,16.1,913.0,,,125.0,159.0,156.0,75.3,,
 2026-07-18,TrailRun,Morning Trailrun,108.0,10.9,757.0,,,140.0,161.0,112.0,76.32,,
 2026-07-17,WeightTraining,Morning Krafttraining,55.0,,0.0,,,114.0,145.0,25.0,52.29,,
-2026-07-16,OpenWaterSwim,Afternoon Freiwasserschwimmen,37.0,1.8,0.0,,,171.0,191.0,70.0,96.52,,

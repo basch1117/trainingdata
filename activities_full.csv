@@ -1,4 +1,5 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-10-09,Swim,Afternoon Schwimmen,39.0,1.5,0.0,,,113.0,130.0,16.0,44.6,,
 2026-10-08,VirtualRun,Indoor Laufband 90min UpperZone2,92.0,13.5,0.0,,,146.0,157.0,98.0,80.01,,
 2026-10-07,WeightTraining,Afternoon Krafttraining,54.0,,0.0,,,98.0,141.0,16.0,42.35,,
 2026-10-06,Ride,Night Radfahren,18.0,2.8,120.0,,,142.0,165.0,27.0,94.65,,

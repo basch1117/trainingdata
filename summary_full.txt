@@ -1,4 +1,4 @@
-Training Data Summary: 2000-01-01 to 2026-10-17
+Training Data Summary: 2000-01-01 to 2026-10-22
 ==================================================
 
 WELLNESS AVERAGES

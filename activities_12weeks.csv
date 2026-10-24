@@ -1,4 +1,5 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-10-23,WeightTraining,Afternoon Krafttraining,61.0,,0.0,,,105.0,131.0,22.0,46.5,,
 2026-10-22,Swim,Evening Schwimmen,16.0,1.1,0.0,,,113.0,146.0,9.0,31.43,,
 2026-10-21,Padel,Evening Padel,86.0,,0.0,,,129.0,166.0,56.0,62.68,,
 2026-10-20,,,,,,,,,,,,,
@@ -70,4 +71,3 @@ date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,
 2026-08-04,Padel,Padel am Abend & Sauna in einem,93.0,,0.0,,,126.0,155.0,55.0,59.7,,
 2026-08-03,OpenWaterSwim,1500m Technik,35.0,1.0,0.0,,,118.0,147.0,14.0,43.97,,
 2026-08-01,TrailRun,Morning Trailrun,187.0,16.3,1482.0,,,141.0,165.0,183.0,74.79,,
-2026-07-31,WeightTraining,Lunch Krafttraining,56.0,,0.0,,,102.0,135.0,19.0,44.99,,

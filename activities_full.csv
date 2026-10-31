@@ -1,4 +1,7 @@
 date,type,name,duration_mins,distance_km,elevation_m,avg_power,np,avg_hr,max_hr,tss,intensity_factor,fitness_ctl,fatigue_atl
+2026-10-30,,,,,,,,,,,,,
+2026-10-29,Swim,Evening Schwimmen,28.0,1.6,0.0,,,109.0,158.0,12.0,35.62,,
+2026-10-27,WeightTraining,Afternoon Krafttraining,45.0,,0.0,,,108.0,145.0,16.0,46.1,,
 2026-10-25,TrailRun,Morning Trailrun,155.0,19.6,999.0,,,154.0,179.0,203.0,88.34,,
 2026-10-24,Swim,Morning Schwimmen,44.0,1.9,0.0,,,112.0,144.0,20.0,45.78,,
 2026-10-23,WeightTraining,Afternoon Krafttraining,61.0,,0.0,,,105.0,131.0,22.0,46.5,,
